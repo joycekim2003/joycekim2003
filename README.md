@@ -1,3 +1,1 @@
-#Welcome!
-
-This is me and these are the things I do!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=B.A.+in+Sociology+double+minor+in+Technology+Management+and+Data+in+Society
