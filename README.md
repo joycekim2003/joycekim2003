@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=University+of+California%2C+Davis;B.A.+Sociology%3A+Law+and+Society+Emphasis;Minor+in+Technology+Management+;Minor+in+Data+in+Society)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=University+of+California%2C+Davis;B.A.+Sociology%3A+Law+and+Society;Minor+in+Technology+Management+;Minor+in+Data+in+Society)](https://git.io/typing-svg)
