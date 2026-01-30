@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= B.A.+in+Sociology+double+minor+in+Technology+Management+and+Data+in+Society
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+Me;B.A.+Sociology%3A+Law+and+Society+Emphasis;Minor+in+Technology+Management;Minor+in+Data+in+Society)](https://git.io/typing-svg)
